@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Readable</string>
+    <string name="hint">Type some text here…</string>
+</resources>
